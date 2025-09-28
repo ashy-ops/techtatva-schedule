@@ -408,5 +408,3 @@ Volt Vault is an innovative circuit design challenge where strategy meets engine
 - Third Prize: ₹1,500
 
 ---
-
-*Last Updated: October 2024 Schedule*
