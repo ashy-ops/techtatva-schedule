@@ -32,7 +32,7 @@
 | 1:00 PM | **[SLEUTHS & LADDERS](#sleuths--ladders)** | 2-4 | 📍 Offline | 3 | 10,000 | 🚩 |
 | 1:00 PM | **[DEVRUSH](#devrush)** | 1-2 | 📍 Offline | 1 | 8,000 | |
 | 1:00 PM | **[IDESIGN](#idesign)** | 2 | 📍 Offline | 2 | 12,000 | |
-| 1:00 PM | **[OPENCIPHER](#opencipher)** | 2-4 | ❓ Not Specified | 2 | 10,000 | |
+| 1:00 PM | **[OPENCIPHER](#opencipher)** | 2-4 | 📍 Offline | 2 | 10,000 | |
 | 1:00 PM | **[ORDER OF CHAOS](#order-of-chaos)** | 1 | 📍 Offline | 1 | 6,000 | |
 | 1:00 PM | **[RESQIRCUIT](#resqircuit)** | 3-4 | 📍 Offline | 3 | 10,000 | |
 | 2:00 PM | **[STARLOCK HOLMES AND THE BLOOD ON THE EVENT HORIZON](#starlock-holmes-and-the-blood-on-the-event-horizon)** | 2-3 | 📍 Offline | 5 | 9,000 | |
