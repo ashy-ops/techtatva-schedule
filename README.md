@@ -12,7 +12,7 @@
 
 ---
 
-## 📅 October 2024
+## 📅 October 2025
 
 ### 🗓️ Saturday, 5th October
 
